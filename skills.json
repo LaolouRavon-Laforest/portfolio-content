@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Shell",
+        "stars": 4,
+        "image": "/images/skills/skill_shell.png"
+    },
+    {
+        "name": "GitHub",
+        "stars": 3,
+        "image": "/images/skills/skill_github.png"
+    },
+    {
+        "name": "C",
+        "stars": 5,
+        "image": "/images/skills/skill_c.png"
+    },
+    {
+        "name": "C++",
+        "stars": 5,
+        "image": "/images/skills/skill_c++.png"
+    },
+    {
+        "name": "SFML (CSFML)",
+        "stars": 4,
+        "image": "/images/skills/skill_csfml.png"
+    },
+    {
+        "name": "Java",
+        "stars": 2,
+        "image": "/images/skills/skill_java.png"
+    },
+    {
+        "name": "Haskell",
+        "stars": 4,
+        "image": "/images/skills/skill_haskell.png"
+    },
+    {
+        "name": "JavaScript",
+        "stars": 2,
+        "image": "/images/skills/skill_javascript.png"
+    },
+    {
+        "name": "x86-64 Assembly",
+        "stars": 2,
+        "image": "/images/skills/skill_assembly.png"
+    },
+    {
+        "name": "Kotlin",
+        "stars": 1,
+        "image": "/images/skills/skill_koltin.webp"
+    },
+    {
+        "name": "Python",
+        "stars": 3,
+        "image": "/images/skills/skill_python.webp"
+    },
+    {
+        "name": "Solidity",
+        "stars": 3,
+        "image": "/images/skills/skill_solidity.svg"
+    },
+    {
+        "name": "TypeScript",
+        "stars": 4,
+        "image": "/images/skills/skill_typescript.webp"
+    },
+    {
+        "name": "HTML",
+        "stars": 4,
+        "image": "/images/skills/skill_html.png"
+    },
+    {
+        "name": "CSS",
+        "stars": 4,
+        "image": "/images/skills/skill_css.png"
+    },
+    {
+        "name": "Node.js",
+        "stars": 3,
+        "image": "/images/skills/skill_nodeJs.png"
+    },
+    {
+        "name": "Next.js",
+        "stars": 4,
+        "image": "/images/skills/skill_nextjs.png"
+    },
+    {
+        "name": "React",
+        "stars": 3,
+        "image": "/images/skills/skill_react.webp"
+    },
+    {
+        "name": "Tailwind CSS",
+        "stars": 3,
+        "image": "/images/skills/skill_tailwind.png"
+    }
+]
