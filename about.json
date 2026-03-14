@@ -1,7 +1,7 @@
 {
   "title": "Qui suis-je ?",
   "photo": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/laolou.jpg",
-  "cv": "/cv/CV-Laolou_Ravon_Laforest-2026-03-14.pdf",
+  "cv": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/cv/CV-Laolou_Ravon_Laforest-2026-03-14.pdf",
   "description": [
     "Étudiant en 3ᵉ année à Epitech Lyon, je suis passionné par la programmation et la création de projets concrets...",
     "J'ai expérimenté le développement en solo comme en équipe, participé à des workshops blockchain et IA...",
