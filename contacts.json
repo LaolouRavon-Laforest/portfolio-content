@@ -1,24 +1,24 @@
 [
     {
-        "type": "Email",
+        "id": "Email",
         "value": "laolou.laforest-ravon@epitech.eu",
         "href": "mailto:laolou.laforest-ravon@epitech.eu",
         "icon": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/contacts/contact_email_white.png"
     },
     {
-        "type": "Téléphone",
+        "id": "Téléphone",
         "value": "+33 6 45 0 97 32",
         "href": "tel:+33645809732",
         "icon": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/contacts/contact_phone_white.png"
     },
     {
-        "type": "LinkedIn",
+        "id": "LinkedIn",
         "value": "Linkedin",
         "href": "https://www.linkedin.com/in/laolou-ravon-laforest-023213281/",
         "icon": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/contacts/contact_linkedin_white.png"
     },
     {
-        "type": "GitHub",
+        "id": "GitHub",
         "value": "Github",
         "href": "https://github.com/LaolouRavon-Laforest",
         "icon": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/contacts/contact_github_white.jpeg"

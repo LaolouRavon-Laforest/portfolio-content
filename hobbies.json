@@ -1,25 +1,31 @@
 [
     {
+        "id": "Ski",
         "name": "Ski - Niveau étoile d'or, en famille ou entre amis",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_ski.png"
     },
     {
+        "id": "Bricolage",
         "name": "Bricolage, Maquettes, mécanique, jardinage, légos et méga blocks",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_bricolage.png"
     },
     {
+        "id": "Musique",
         "name": "Musique - Batterie et percussions (9 ans), basse (1 an), participation à 3 orchestres",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_music.png"
     },
     {
+        "id": "Cinéma",
         "name": "Cinéma - Évasion, culture et émotion à travers le septième art",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_cinema.png"
     },
     {
+        "id": "Jeux",
         "name": "Jeux vidéo - Stratégie et exploration dans différents univers",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_jeux.png"
     },
     {
+        "id": "Manga",
         "name": "Manga / Webtoon - Plongée dans des univers graphiques variés et créatifs",
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/hobbies/hobby_manga.png"
     }

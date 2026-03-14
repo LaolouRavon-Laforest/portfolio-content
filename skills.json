@@ -1,95 +1,114 @@
 [
     {
+        "id": "shell",
         "name": "Shell",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_shell.png"
     },
     {
+        "id": "gitHub",
         "name": "GitHub",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_github.png"
     },
     {
+        "id": "c",
         "name": "C",
         "stars": 5,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_c.png"
     },
     {
+        "id": "c++",
         "name": "C++",
         "stars": 5,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_c++.png"
     },
     {
+        "id": "sfml",
         "name": "SFML (CSFML)",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_csfml.png"
     },
     {
+        "id": "java",
         "name": "Java",
         "stars": 2,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_java.png"
     },
     {
+        "id": "haskell",
         "name": "Haskell",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_haskell.png"
     },
     {
+        "id": "javascript",
         "name": "JavaScript",
         "stars": 2,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_javascript.png"
     },
     {
+        "id": "assembly",
         "name": "x86-64 Assembly",
         "stars": 2,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_assembly.png"
     },
     {
+        "id": "kotlin",
         "name": "Kotlin",
         "stars": 1,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_koltin.webp"
     },
     {
+        "id": "python",
         "name": "Python",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_python.webp"
     },
     {
+        "id": "solidity",
         "name": "Solidity",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_solidity.svg"
     },
     {
+        "id": "typescript",
         "name": "TypeScript",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_typescript.webp"
     },
     {
+        "id": "html",
         "name": "HTML",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_html.png"
     },
     {
+        "id": "css",
         "name": "CSS",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_css.png"
     },
     {
+        "id": "node",
         "name": "Node.js",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_nodeJs.png"
     },
     {
+        "id": "next",
         "name": "Next.js",
         "stars": 4,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_nextjs.png"
     },
     {
+        "id": "react",
         "name": "React",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_react.webp"
     },
     {
+        "id": "tailwind",
         "name": "Tailwind CSS",
         "stars": 3,
         "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/skills/skill_tailwind.png"
