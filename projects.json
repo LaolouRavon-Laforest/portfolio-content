@@ -71,7 +71,7 @@
             "description": "Développement d'une application web solo simulant un service de suivi des trajets et arrêts de transports en commun. Front-end en Next.js + TypeScript, stylisé avec Tailwind CSS, et cartes interactives affichées avec Mapbox. Récupération et affichage de données publiques/fictives pour visualiser les trajets et arrêts, projet orienté intégration d'API et gestion de cartes interactives.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_tcl_live.jpg",
             "github": "https://github.com/LaolouRavon-Laforest/TCL-status-display",
-            "technologie": ["Next.js", "TypeScript", "stylisé", "Tailwind CSS", "Mapbox"]
+            "technologie": ["Next.js", "TypeScript", "Tailwind CSS", "Mapbox"]
         }
     ]
 }
