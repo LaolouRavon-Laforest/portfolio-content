@@ -6,62 +6,72 @@
             "name": "Projet Hub - Jeu d'échecs",
             "description": "Développement d'un jeu d'échecs complet en C++ avec la bibliothèque graphique SFML. Le projet inclut la gestion des règles du jeu, l'affichage du plateau et des pièces, ainsi qu'une IA permettant de jouer contre l'ordinateur. Ce projet m'a permis de travailler sur la modélisation des règles complexes du jeu d'échecs, la gestion des événements graphiques et la structuration d'un programme orienté objet.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_chessgame.png",
-            "github": "https://github.com/LaolouRavon-Laforest/hub_project_chessgame"
+            "github": "https://github.com/LaolouRavon-Laforest/hub_project_chessgame",
+            "technologie": ["C++", "SFML", "Makefile"]
+
         },
         {
             "id": "Hub",
             "name": "Stage au sein du Hub Epitech - Site Hub Epitech",
             "description": "Développement d'une plateforme web interne pour le Hub Epitech durant un stage de 2 mois, en collaboration avec une équipe de 5 développeurs. Le projet consistait à concevoir plusieurs pages permettant la gestion de projets, d'articles et d'inventaire pour la structure. Le développement front-end a été réalisé avec Next.js, TypeScript et Tailwind CSS, avec un travail collaboratif et un suivi de projet encadré dans un environnement pédagogique.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_site_hub.png",
-            "github": "https://github.com/HUB-Lyon/Plateforme_HUB/tree/develop"
+            "github": "https://github.com/HUB-Lyon/Plateforme_HUB/tree/develop",
+            "technologie": ["Next.js", "TypeScript", "Tailwind CSS"]
         },
         {
             "id": "GLaDOS",
             "name": "Projet Epitech GLaDOS - Interpréteur Lisp / langage Glados",
             "description": "Conception et développement d'un interpréteur inspiré des langages Lisp/Scheme en Haskell. Le projet consistait à implémenter un parser basé sur les S-expressions, ainsi qu'un moteur capable d'évaluer les expressions du langage. Réalisé en équipe de 5, ce projet a permis d'explorer la programmation fonctionnelle, la conception d'un langage et la construction d'un interpréteur.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_glados.png",
-            "github": "https://github.com/EpitechPGE3-2025/G-FUN-500-LYN-5-2-glados-2"
+            "github": "https://github.com/EpitechPGE3-2025/G-FUN-500-LYN-5-2-glados-2",
+            "technologie": ["Haskell", "Makefile", "Shell"]
+
         },
         {
             "id": "Blockchain",
             "name": "Piscine & Workshops POC - Blockchain",
             "description": "Développement d'un site interne pour le HubParticipation à une piscine de découverte de la blockchain et à plusieurs workshops techniques autour de cet écosystème. J'y ai étudié les principes fondamentaux des systèmes décentralisés (structure des blocs, transactions, mécanismes de consensus) et développé plusieurs smart contracts en Solidity. Ces ateliers m'ont permis d'expérimenter le cycle complet de développement : écriture des contrats, compilation, déploiement sur un environnement de test et interaction avec ceux-ci via des outils dédiés. avec Next.js et Tailwind (5 pages, gestion projets, inventaire et articles). Front-end en équipe de 3.",
-            "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_blockchain.jpeg"
+            "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_blockchain.jpeg",
+            "technologie": ["Solidity"]
         },
         {
             "id": "Agents",
             "name": "Workshop AWS - Agents IA (Python)",
             "description": "Participation à un workshop dédié aux services cloud d'AWS et à l'intelligence artificielle. Le projet consistait à développer des agents IA en Python capables d'interagir dans un environnement inspiré d'un jeu de rôle type Donjon & Dragons. L'objectif était d'explorer la création de comportements autonomes et l'intégration de services AWS dans un projet applicatif.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_donjons-dragons.jpg",
-            "github": ""
+            "technologie": ["Python", "LLM", "AWS"]
         },
         {
             "id": "R-Type",
             "name": "Projet Epitech - R-Type - Jeu multijoueur réseau",
             "description": "Développement d'un jeu multijoueur inspiré de R-Type avec une architecture client-serveur en C++ utilisant SFML pour le rendu graphique. Le projet reposait sur une architecture ECS (Entity Component System) et une communication réseau UDP optimisée pour gérer les interactions en temps réel entre joueurs. Réalisé en équipe de 4, ce projet a permis de travailler sur la synchronisation réseau, l'architecture logicielle et l'optimisation des performances.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_r-type.png",
-            "github": "https://github.com/EpitechPGE3-2025/G-CPP-500-LYN-5-1-rtype-2/tree/main"
+            "github": "https://github.com/EpitechPGE3-2025/G-CPP-500-LYN-5-1-rtype-2/tree/main",
+            "technologie": ["C++", "CMake", "Makefile"]
         },
         {
             "id": "Minishell",
             "name": "Projets Epitech - Minishell / Minishell2 / 42sh",
             "description": "Développement progressif d'un interpréteur de commandes UNIX en C, inspiré des shells traditionnels. Le projet est structuré en plusieurs étapes : Minishell1 gère l'exécution de commandes simples, Minishell2 introduit les pipes et redirections, et 42sh constitue un shell plus complet inspiré de TCSH avec gestion avancée des commandes et du parsing. Ce projet m'a permis d'approfondir la gestion des processus, les appels système et la manipulation des entrées/sorties sous UNIX.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_42sh.png",
-            "github": "https://github.com/EpitechPromo2027/B-PSU-200-LYN-2-1-42sh-noe.pereira"
+            "github": "https://github.com/EpitechPromo2027/B-PSU-200-LYN-2-1-42sh-noe.pereira",
+            "technologie": ["C", "Makefile", "Shell"]
         },
         {
             "id": "Tek3",
             "name": "Piscine Tek3 Epitech - Plateforme incubateur",
             "description": "Développement d'une plateforme web destinée à présenter des startups et leurs projets, réalisée durant la piscine Tek3. Le site comprend un catalogue de projets, une API REST et une gestion de données côté serveur. Le projet a été réalisé en équipe de 4 avec React, TypeScript, Node.js, Express et MySQL, permettant d'expérimenter le développement full-stack et la structuration d'une application web complète.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_piscine-tek3.png",
-            "github": "https://github.com/EpitechPGE3-2025/G-SVR-500-LYN-5-1-survivor-16"
+            "github": "https://github.com/EpitechPGE3-2025/G-SVR-500-LYN-5-1-survivor-16",
+            "technologie": ["React", "TypeScript", "Node.js", "Express", "MySQL", "JavaScript", "CSS", "Tailwind CSS"]
         },
         {
             "id": "TCL",
             "name": "Projet Hub - Application type TCL Live",
             "description": "Développement d'une application web solo simulant un service de suivi des trajets et arrêts de transports en commun. Front-end en Next.js + TypeScript, stylisé avec Tailwind CSS, et cartes interactives affichées avec Mapbox. Récupération et affichage de données publiques/fictives pour visualiser les trajets et arrêts, projet orienté intégration d'API et gestion de cartes interactives.",
             "image": "https://raw.githubusercontent.com/LaolouRavon-Laforest/portfolio-content/main/images/projects/project_tcl_live.jpg",
-            "github": "https://github.com/LaolouRavon-Laforest/TCL-status-display"
+            "github": "https://github.com/LaolouRavon-Laforest/TCL-status-display",
+            "technologie": ["Next.js", "TypeScript", "stylisé", "Tailwind CSS", "Mapbox"]
         }
     ]
 }
